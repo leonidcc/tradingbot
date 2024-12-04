@@ -1,0 +1,1 @@
+curl "https://fapi.binance.com/fapi/v1/klines?symbol=DOGEUSDT&interval=1m&limit=1500" > dogeusdt1m.json
